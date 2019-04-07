@@ -1,0 +1,10 @@
+
+SONY@VAIO MINGW64 /f/learn/practise/git_tria; (master)
+$ git clone https://github.com/SushmitaDey/chatbot.git
+Cloning into 'chatbot'...
+sremote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (6/6), done.
+
